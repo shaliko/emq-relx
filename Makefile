@@ -32,7 +32,7 @@ dep_emq_stomp = git https://github.com/emqtt/emq-stomp v2.1.0
 
 # plugin template
 dep_emq_plugin_template = git https://github.com/emqtt/emq-plugin-template v2.1.0
-dep_emq_plugin_elasticsearch = git https://github.com/phanimahesh/emq_plugin_elasticsearch preview
+dep_emq_plugin_elasticsearch = git https://github.com/shaliko/emq_plugin_elasticsearch preview-apinf
 
 # COVER = true
 
